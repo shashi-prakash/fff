@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/fff/static/css/main.da919323.css",
+    "main.js": "/fff/static/js/main.e5d06d93.js",
+    "static/media/bann2.jpg": "/fff/static/media/bann2.2b76892693abdf92dadb.jpg",
+    "static/media/bann1.jpg": "/fff/static/media/bann1.5a9692d301e5aa72e12a.jpg",
+    "static/media/accounting-banking-calculator.jpg": "/fff/static/media/accounting-banking-calculator.130abfad604a89f37ad7.jpg",
+    "static/media/logo1.png": "/fff/static/media/logo1.b6e083d29845937df3b8.png",
+    "static/media/bann3.jpg": "/fff/static/media/bann3.0ca89d8df9ef72397af0.jpg",
+    "static/media/MSME-Growth-Driver-of-New-India.png": "/fff/static/media/MSME-Growth-Driver-of-New-India.a162b1cc8fba48b3650b.png",
+    "static/media/Why-Choose-Us.jpg": "/fff/static/media/Why-Choose-Us.1dacfac02e7fb16715fa.jpg",
+    "static/media/core-value.jpg": "/fff/static/media/core-value.961f780ab0dc1aa45087.jpg",
+    "static/media/TDS-TCS-Applicability.jpeg": "/fff/static/media/TDS-TCS-Applicability.59553c02d39e0c24ee8e.jpeg",
+    "static/media/due-dates.jpg": "/fff/static/media/due-dates.45e6f9a61eebde63814f.jpg",
+    "static/media/banner.jpg": "/fff/static/media/banner.c2ea995abb4124d9353f.jpg",
+    "static/media/slick.svg": "/fff/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/fff/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/fff/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/fff/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/fff/index.html",
+    "main.da919323.css.map": "/fff/static/css/main.da919323.css.map",
+    "main.e5d06d93.js.map": "/fff/static/js/main.e5d06d93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da919323.css",
+    "static/js/main.e5d06d93.js"
+  ]
+}
